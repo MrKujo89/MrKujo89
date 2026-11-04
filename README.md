@@ -1,11 +1,12 @@
-## About me
+# Hi, I'm David! 👋
 
-**. Hi, im David
-**. Third year Cybersecurity Engineer Student
-**. Interested in custom security scripts
-**. Currently learning about LLMSecOps
+Third-year Cybersecurity Engineering student interested in custom security scripts and currently learning about LLMSecOps.
 
+### 🛡️ About Me
 
+*   **Academic Focus:** Third-year Cybersecurity Engineering student.
+*   **Core Interests:** Creating custom security scripts.
+*   **Current Learning:** Diving into LLMSecOps.
 
 <!--
 **MrKujo89/MrKujo89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
