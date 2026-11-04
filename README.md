@@ -1,9 +1,9 @@
 ## About me
 
-. Hi, im David
-. Third year Cybersecurity Engineer Student
-. Interested in custom security scripts
-. Currently learning about LLMSecOps
+**. Hi, im David
+**. Third year Cybersecurity Engineer Student
+**. Interested in custom security scripts
+**. Currently learning about LLMSecOps
 
 
 
