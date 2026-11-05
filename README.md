@@ -2,13 +2,13 @@
 
 Cybersecurity Engineering student.
 
-### 🛡️ About Me
+###  About Me 
 
 *   **Academic Focus:** Third-year Cybersecurity Engineering student.
 *   **Interests:** Creating custom security scripts.
 *   **Current Learning:** LLMSecOps.
 *   **Languages:** English and Spanish.
-
+*   **Some Skills:** Python, Java, JavaScript, SQL, Rust, HTML/CSS, Bash
 <!--
 **MrKujo89/MrKujo89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
