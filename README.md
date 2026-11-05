@@ -6,7 +6,7 @@ Cybersecurity Engineering student.
 
 *   **Academic Focus:** Third-year Cybersecurity Engineering student.
 *   **Interests:** Creating custom security scripts.
-*   **Current Learning:** LLMSecOps.
+*   **Currently Learning:** LLMSecOps.
 *   **Languages:** English and Spanish.
 *   **Some Skills:** Python, Java, JavaScript, SQL, Rust, HTML/CSS, Bash
 <!--
